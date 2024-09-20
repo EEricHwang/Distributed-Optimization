@@ -1,6 +1,8 @@
 
 # This is an example code for the ADMM algorithm
 
+# Author: Sounghwan Hwang
+
 import cvxpy as cp
 import matplotlib.pyplot as plt
 import numpy as np
